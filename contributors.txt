@@ -1,1 +1,3 @@
 Kevin Server
+I am writing stuff here to practice using vim and git fuctionality!
+-vsingh95
